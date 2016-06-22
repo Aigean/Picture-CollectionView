@@ -23,7 +23,7 @@ class Interest  {
     }
     static func creatInterests() -> [Interest]{
         return [
-            Interest(title: "Hello,there,i miss u.", description: "OK", featuredImage: UIImage(named:"hello")!),
+            Interest(title: "Hello,there,i miss u.", description: "OK", featuredImage: UIImage(named:"helloween")!),
             Interest(title: "🐳🐳🐳🐳🐳", description: "We love romantic stories. We walked to Antartica yesterday, and camped with some cute pinguines, and talked about this wonderful app idea. 🐧⛺️✨", featuredImage: UIImage(named: "dudu")!),
             Interest(title: "Training like this, #bodyline", description: "Create beautiful apps. We walked to Antartica yesterday, and camped with some cute pinguines, and talked about this wonderful app idea. 🐧⛺️✨", featuredImage: UIImage(named: "bodyline")!),
             Interest(title: "I'm hungry, indeed.", description: "Cars and aircrafts and boats and sky. We walked to Antartica yesterday, and camped with some cute pinguines, and talked about this wonderful app idea. 🐧⛺️✨", featuredImage: UIImage(named: "wave")!),
